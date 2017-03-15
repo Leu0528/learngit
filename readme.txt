@@ -1,2 +1,2 @@
 hello github
-good to use
+It's very useful
